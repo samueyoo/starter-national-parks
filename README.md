@@ -36,7 +36,7 @@ code .
 
 The initial application should look like the following screenshots:
 
-![Mobile screen](screenshots/iphone.png)
+![Mobile screen](screenshots/iphonee.png)
 
 ![Tablet screen](screenshots/ipad.png)
 
